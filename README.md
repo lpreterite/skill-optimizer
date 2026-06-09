@@ -4,6 +4,11 @@ Skill 创建后的质检工具。[Agent Skills](https://agentskills.io) 格式�
 
 对已有 Skill 做质量审查、差距识别、优化落地。包含 5 种类型分类定位 + 7 维度审查清单。
 
+## 方法论来源
+
+- **5 种 Skill 分类体系**：借鉴 Google Cloud Tech 团队的博客 [*Five agent skill design patterns every ADK developer should know*](https://medium.com/google-cloud/five-agent-skill-design-patterns-every-adk-developer-should-know-e4a58004d6ba)
+- **7 维度审查清单**：借鉴 *[Equipping agents for the real world with Agent Skills](https://agentskills.io/blog/equipping-agents)*
+
 ## 安装
 
 ```bash
