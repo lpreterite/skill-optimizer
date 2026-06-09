@@ -20,12 +20,12 @@ description: "Skill 创建后审查与持续优化。触发：审查/优化已�
 - → **此时加载目标 Skill 全部文件**
 
 ### 步骤 2：定位 Skill 类型
-- → **此时加载 [classification.md](classification.md)**
+- → **此时加载 [references/classification.md](references/classification.md)**
 - 按 5 种分类确定主类型 + 辅类型
 - 类型决定审查侧重点（如 Type 3 更关注工作流完整性，Type 4 更关注领域知识准确性）
 
 ### 步骤 3：逐项审查
-- → **此时加载 [review-checklist.md](review-checklist.md)**
+- → **此时加载 [references/review-checklist.md](references/review-checklist.md)**
 - 按 7 维度逐项对照，记录合格/不合格
 - 不合格项 = 差距，进入步骤 4
 
@@ -54,5 +54,5 @@ description: "Skill 创建后审查与持续优化。触发：审查/优化已�
 
 ## 引用
 
-- [classification.md](classification.md) — 5 种 Skill 分类体系 + 定位方法
-- [review-checklist.md](review-checklist.md) — 7 维度审查清单 + 合格标准 + 修复建议
+- [references/classification.md](references/classification.md) — 5 种 Skill 分类体系 + 定位方法
+- [references/review-checklist.md](references/review-checklist.md) — 7 维度审查清单 + 合格标准 + 修复建议
