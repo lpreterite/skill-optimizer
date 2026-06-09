@@ -6,8 +6,8 @@ Skill 创建后的质检工具。[Agent Skills](https://agentskills.io) 格式�
 
 ## 方法论来源
 
-- **5 种 Skill 分类体系**：参考 skills.sh 社区流行的 Skill 分类框架。同时受 Google Developer Relations Engineer Lavi Nigam 的博客 [5 Agent Skill Design Patterns Every ADK Developer Should Know](https://lavinigam.com/posts/adk-skill-design-patterns/) 启发——该文从内容设计模式角度归纳了 Tool Wrapper、Generator、Reviewer、Inversion、Pipeline 五种结构模板，与本工具的 Skill 类型分类定位侧重点不同但互为补充。
-- **7 维度审查清单**：基于 Anthropic/Codex 的 skill-creator 规范以及 OpenClaw skill-builder 的实践经验提取，涵盖 Description 覆盖度、SKILL.md 长度、渐进式披露、自由度分层、前置/后置条件、失败回退路径、反模式检查。
+- **5 种 Skill 分类体系**：参考 skills.sh 社区流行的 Skill 分类框架。同时受 Google Developer Relations Engineer Lavi Nigam 的博客 [*5 Agent Skill Design Patterns Every ADK Developer Should Know*](https://lavinigam.com/posts/adk-skill-design-patterns/) 启发——该文从内容设计模式角度归纳了 Tool Wrapper、Generator、Reviewer、Inversion、Pipeline 五种结构模板，与本工具的 Skill 类型分类定位侧重点不同但互为补充。
+- **7 维度审查清单**：基于 Anthropic 博文 [*Equipping agents for the real world with Agent Skills*](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) 中提出的 Skill 设计原则以及 OpenClaw skill-builder 的实践经验提取，涵盖 Description 覆盖度、SKILL.md 长度、渐进式披露、自由度分层、前置/后置条件、失败回退路径、反模式检查。
 
 ## 5 种 Skill 分类体系
 
